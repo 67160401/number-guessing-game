@@ -12,6 +12,6 @@ function checkGuess() {
   } else if (g > ans) { 
     result.textContent = "↓ ตัวเลขสูงไป"; 
   } else {
-    result.textContent = "↑ ตัวเลขตํ ่าไป"; 
+    result.textContent = "↑ ตัวเลขต่ำไป"; 
   } 
 } 
